@@ -11,10 +11,10 @@ The programs in increasing order of cost are:
 
 Compile a file with the command
 
-    `g++ file.cpp`
+    g++ file.cpp
 
 Time it by changing the value in the file `input` and running
 
-    `time ./a.out < input`
+    time ./a.out < input
 
 Be careful not to run `quadratic.cpp` with too large a value!
