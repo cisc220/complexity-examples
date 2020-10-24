@@ -1,4 +1,5 @@
 #include<iostream>
+using namespace std;
 
 int main(){
     int number_of_rounds = 0;
